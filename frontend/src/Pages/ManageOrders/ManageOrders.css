@@ -1,0 +1,10 @@
+.manage-order{
+        padding-top: 70px;
+        background-image: url('/src/images/cover5.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:auto;
+        padding-bottom: 25px;
+
+}
